@@ -26,18 +26,18 @@ Cuento con la certificación de **Desarrollador Full Stack Junior**.
 
 ### 📁 Proyectos Destacados
 
-#### 📱 InmoSmart / InmoSmartMobile *(En desarrollo)*
+#### 📱 [InmoSmart](https://github.com/CreatiEdu/InmoSmart) / [InmoSmartMobile](https://github.com/CreatiEdu/InmoSmartMobile) *(En desarrollo)*
 Plataforma web y aplicación móvil nativa orientadas a la digitalización y centralización de la gestión inmobiliaria de alquileres y ventas.
 - **Web:** Plataforma multi-rol (Administrador, Vendedor, Usuario) para carga de inmuebles, documentación y gestión de visitas.
 - **Mobile (Android):** Aplicación desarrollada en Java orientada a la experiencia del usuario final (búsqueda de propiedades, gestión de perfil y postulaciones).
 - **Tecnologías:** Java, Android, Web, MySQL.
 
-#### 🏫 Plataforma Web Institucional Educativa
+#### 🏫 [Plataforma Web Institucional Educativa](https://github.com/CreatiEdu/PaginaEducativa)
 Sitio web integral desarrollado en equipo para una institución educativa con niveles Inicial, Primario y Secundario (orientaciones en Ed. Física y Multimedia).
 - **Características:** Visibilidad de proyectos académicos, consulta de cuotas y pasarela de pagos, tienda escolar (uniformes, libros y comunicados) y canal de contacto oficial.
 - **Tecnologías:** HTML5, CSS3, JavaScript, Python.
 
-#### 🔐 Sistema de Gestión de Usuarios (CLI)
+#### 🔐 [Sistema de Gestión de Usuarios (CLI)](https://github.com/PythonSyntaxx/ProyectoABP_Programacion-y-Base-de-Datos)
 Proyecto integrador enfocado en la seguridad y el control de acceso diferenciado por roles (CRUD en consola).
 - **Características:** Autenticación segura, validación de correo y contraseñas fuertes, prevención de registros duplicados y menús interactivos según privilegios.
 - **Tecnologías:** Python, MySQL.
