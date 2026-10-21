@@ -46,7 +46,7 @@ Proyecto integrador enfocado en la seguridad y el control de acceso diferenciado
 
 ### 🎓 Certificaciones & Educación
 
-- 📜 **Desarrollador Full Stack Junior** — *Dirección General de Educación Técnica y Formación Profesional* .
+- 📜 **Desarrollador Full Stack Junior** — *Dirección General de Educación Técnica y Formación Profesional / ISPC* .
 - 🎓 **Tecnicatura Superior en Desarrollo de Software** — *Instituto Superior Politécnico de Córdoba* (En curso - 2° año).
 
 ---
